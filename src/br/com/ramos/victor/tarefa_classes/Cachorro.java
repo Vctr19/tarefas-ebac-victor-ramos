@@ -2,7 +2,7 @@
  * @author victor.ramos
  */
 
-package tarefa_classes;
+package br.com.ramos.victor.tarefa_classes;
 
 // Classe que representa um cachorro
 public class Cachorro {
